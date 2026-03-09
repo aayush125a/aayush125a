@@ -13,15 +13,25 @@
 
 ## ◈ About Me
 
-> 🇳🇵 **From Nepal** — a Web3 Enthusiast, Digital Artist, Content Creator & Writer on a mission to bridge **creativity and decentralization** through NFTs and blockchain technology.
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-| | |
-|---|---|
-| 🌍 **Location** | Kathmandu, Nepal 🇳🇵 |
-| 🔭 **Currently** | Building NFT Collection & Web3 Projects |
-| 🌱 **Learning** | Solidity, Smart Contracts, React, Node.js |
-| 🎯 **Goal** | Bridge creativity & decentralization through NFTs |
-| ⚡ **Fun Fact** | I create art that will live forever on the blockchain |
+👋 Hey! I'm **Aayush** from **Kathmandu, Nepal 🇳🇵**
+
+🌐 A **Web3 Enthusiast** exploring the decentralized world
+
+🎨 **Digital Artist** planning to launch my own NFT collection
+
+✍️ **Content Creator & Writer** covering Web3, crypto & tech
+
+💻 **Developer** learning to build tools that matter
+
+🌱 Currently diving deep into **Solidity & Smart Contracts**
+
+⚡ I believe art belongs on the blockchain — **forever**
+
+🎯 Mission: Bridge **creativity** and **decentralization** through NFTs
+
+<br clear="right"/>
 
 ---
 
@@ -117,16 +127,23 @@
 
 ---
 
-## ◈ Currently Building
+## ◈ My Repositories
 
-```
-  ▸ NFT Art Collection ......................... 🔨 In Progress
-  ▸ Web3 Portfolio Website ..................... 🔨 In Progress
-  ▸ Weather Auto-Committer ..................... ✅ Live
-  ▸ Smart Contract Projects .................... 📖 Learning
-  ▸ Content Creation ........................... ✅ Active
-  ▸ Business Planning .......................... 🧠 Thinking
-```
+<div align="center">
+
+[![Weather Bot](https://github-readme-stats.vercel.app/api/pin/?username=aayush125a&repo=aayush125a&theme=tokyonight&hide_border=true)](https://github.com/aayush125a/aayush125a)
+
+</div>
+
+---
+
+## ◈ Contribution Snake 🐍
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/aayush125a/aayush125a/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
