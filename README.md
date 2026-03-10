@@ -4,97 +4,88 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Web3+Enthusiast+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Creating+Art+that+lives+on-chain+%F0%9F%8E%A8;Building+%7C+Learning+%7C+Creating;Content+Creator+%7C+Artist+%7C+Developer)](https://github.com/aayush125a)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=aayush125a&style=flat-square&color=blueviolet&label=Profile+Views)](https://github.com/aayush125a)
-[![GitHub followers](https://img.shields.io/github/followers/aayush125a?style=flat-square&color=blueviolet&label=Followers)](https://github.com/aayush125a)
+[![Profile Views](https://komarev.com/ghpvc/?username=aayush125a&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/aayush125a)
+[![GitHub followers](https://img.shields.io/github/followers/aayush125a?style=for-the-badge&logo=github&logoColor=white&color=blueviolet&label=Followers)](https://github.com/aayush125a)
 
 </div>
 
 ---
 
-## ◈ About Me
+## About Me
 
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-👋 Hey! I'm **Aayush** from **Kathmandu, Nepal 🇳🇵**
+I'm **Aayush**, an undergraduate from Nepal learning how to code and bringing ideas to life.
 
-🌐 A **Web3 Enthusiast** exploring the decentralized world
-
-🎨 **Digital Artist** planning to launch my own NFT collection
-
-✍️ **Content Creator & Writer** covering Web3, crypto & tech
-
-💻 **Developer** learning to build tools that matter
-
-🌱 Currently diving deep into **Solidity & Smart Contracts**
-
-⚡ I believe art belongs on the blockchain — **forever**
-
-🎯 Mission: Bridge **creativity** and **decentralization** through NFTs
+- Learning new things and implementing it everyday
+- Learning how to bring my ideas to life with the help of codes
+- Exploring Web3 and learning how it works
+- I believe everything can be achieved
 
 <br clear="right"/>
 
 ---
 
-## ◈ What I Do
+## What I Do
 
 <details>
-<summary><b>🏢 Learning Business</b></summary>
+<summary><b>Business</b></summary>
 <br>
 
-- 📈 Planning to launch a business in the future
-- 📣 Learning marketing strategies
-- 🤝 Building network and connections
-- 🧠 Studying various business models & strategies
+- Planning to launch a business in the future
+- Learning marketing strategies
+- Building network and connections
+- Studying various business models and strategies
 
 </details>
 
 <details>
-<summary><b>🌐 Exploring Web3</b></summary>
+<summary><b>Explore Web3</b></summary>
 <br>
 
-- ⛓️ Exploring decentralized apps & blockchain tech
-- 📝 Learning Solidity & smart contracts
-- 🔐 Passionate about the future of digital ownership
-- 🚀 Building on Ethereum ecosystem
+- Exploring decentralized apps and blockchain tech
+- Learning Solidity and smart contracts
+- Passionate about the future of digital ownership
+- Building on Ethereum ecosystem
 
 </details>
 
 <details>
-<summary><b>🎨 Arts & NFTs</b></summary>
+<summary><b>Arts & NFT</b></summary>
 <br>
 
-- 🖼️ Digital artist creating on-chain art
-- 🔗 Merging creativity with blockchain technology
-- 💎 Planning to launch my own NFT collection
-- ✨ Exploring generative & 1/1 art styles
+- Digital artist creating on-chain art
+- Merging creativity with blockchain technology
+- Planning to launch my own NFT collection
+- Exploring generative and 1/1 art styles
 
 </details>
 
 <details>
-<summary><b>✍️ Content Writing</b></summary>
+<summary><b>Content Writing</b></summary>
 <br>
 
-- 📝 Content creator & writer
-- 🌐 Covering Web3, crypto & tech topics
-- 📚 Sharing knowledge with the community
-- 🗺️ Documenting my builder journey
+- Content creator and writer
+- Covering Web3, crypto and tech topics
+- Sharing knowledge with the community
+- Documenting my builder journey
 
 </details>
 
 <details>
-<summary><b>💻 Development</b></summary>
+<summary><b>Development</b></summary>
 <br>
 
-- 🌱 Learning Web Development (JS, HTML, CSS, React)
-- 🤖 Exploring GitHub Actions & automation
-- 🛠️ Trying to build tools that solve real problems
-- 🌍 Open source contributor
+- Learning Web Development (JS, HTML, CSS, React)
+- Exploring GitHub Actions and automation
+- Trying to build tools that solve real problems
+- Open source contributor
 
 </details>
 
 ---
 
-## ◈ Tech Arsenal
+## Tech Arsenal
 
 **Currently Learning:**
 
@@ -113,36 +104,44 @@
 
 ---
 
-## ◈ GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayush125a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayush125a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aayush125a&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aayush125a&theme=tokyo-night&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush125a&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
 ---
 
-## ◈ Featured Repository
+## Contribution Graph
 
 <div align="center">
 
-[![Weather Auto-Committer](https://github-readme-stats.vercel.app/api/pin/?username=aayush125a&repo=aayush125a&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/aayush125a/aayush125a)
+![Aayush's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aayush125a&theme=tokyo-night&hide_border=true&area=true&area_color=7aa2f7)
 
 </div>
 
 ---
 
-## ◈ Connect With Me
+## Featured Repository
+
+<div align="center">
+
+[![Daily World Report](https://github-readme-stats.vercel.app/api/pin/?username=aayush125a&repo=daily-world-report&theme=tokyonight&hide_border=true)](https://github.com/aayush125a/daily-world-report)
+
+</div>
+
+---
+
+## Connect With Me
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhikariaayush125@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayush125a)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/aayush125a)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jagarnath125)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-adhikari-8b3448373)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100024005200369)
