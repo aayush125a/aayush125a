@@ -49,7 +49,7 @@ I'm **Aayush**, an undergraduate from Nepal learning how to code and bringing id
 
 | 🤝 Affiliate / Ambassador | 📣 Paid Promotion |
 |:-:|:-:|
-| Representing brands I believe in | Strategic crypto promotions |
+| Representing brands I believe in | Strategic projects promotions |
 
 </div>
 
