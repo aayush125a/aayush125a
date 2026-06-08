@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING TAGLINE -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=🌏+I'm+from+Nepal+%26+flexible+to+any+field;💡+Turning+ideas+into+reality+with+code;🎨+Where+Art+meets+Web3;🚀+Building+the+decentralized+future)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=I'm+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5+and+flexible+to+any+field)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,23 +29,12 @@
 
 ## 👤 About Me
 
-```typescript
-const aayush = {
-  name:       "Aayush Adhikari",
-  location:   "🇳🇵 Nepal",
-  role:       "Junior Developer | Artist | Web3 Enthusiast",
-  status:     "Undergraduate — bringing ideas to life with code",
+I'm **Aayush**, an undergraduate from Nepal learning how to code and bringing ideas to life.
 
-  philosophy: "I believe everything can be achieved",
-
-  currentlyDoing: [
-    "📚 Learning new things and implementing everyday",
-    "💻 Turning ideas into reality through code",
-    "🌐 Exploring Web3 and how it works",
-    "🎯 Growing as a developer, one commit at a time",
-  ],
-};
-```
+-  Learning new things and implementing it everyday
+-  Learning how to bring my ideas to life with the help of codes
+-  Exploring Web3 and learning how it works
+-  I believe everything happens for a reason
 
 <br/>
 
