@@ -30,10 +30,10 @@
 
 I'm **Aayush**, an undergraduate from Nepal learning how to code and bringing ideas to life.
 
-- 📚 Learning new things and implementing it everyday
-- 💻 Learning how to bring my ideas to life with the help of codes
-- 🌐 Exploring Web3 and learning how it works
-- 🙏 I believe everything happens for a reason
+-  Learning new things and implementing it everyday
+-  Learning how to bring my ideas to life with the help of codes
+-  Exploring Web3 and learning how it works
+-  I believe everything happens for a reason
 
 <br/>
 
