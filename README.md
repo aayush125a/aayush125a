@@ -19,7 +19,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aayush125a&label=Profile+Views&color=6e40c9&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/aayush125a?label=Followers&style=for-the-badge&color=3a86ff&labelColor=0d1117)
-![GitHub User's stars](https://img.shields.io/github/stars/aayush125a?label=Total+Stars&style=for-the-badge&color=00d4ff&labelColor=0d1117)
 
 </div>
 
@@ -31,10 +30,10 @@
 
 I'm **Aayush**, an undergraduate from Nepal learning how to code and bringing ideas to life.
 
--  Learning new things and implementing it everyday
--  Learning how to bring my ideas to life with the help of codes
--  Exploring Web3 and learning how it works
--  I believe everything happens for a reason
+- 📚 Learning new things and implementing it everyday
+- 💻 Learning how to bring my ideas to life with the help of codes
+- 🌐 Exploring Web3 and learning how it works
+- 🙏 I believe everything happens for a reason
 
 <br/>
 
@@ -151,8 +150,8 @@ I'm **Aayush**, an undergraduate from Nepal learning how to code and bringing id
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-adhikariaayush125%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhikariaayush125@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aayush125a-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayush125a)
+[![Email](https://img.shields.io/badge/Email-infoataayush125%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infoataayush125@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayush%20Adhikari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhikari-aayush125/)
 
 </div>
 
