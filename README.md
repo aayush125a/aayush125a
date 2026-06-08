@@ -1,155 +1,181 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aayush%20Adhikari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web3%20Enthusiast%20%7C%20Artist%20%7C%20Content%20Creator&descAlignY=55&descSize=16" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Web3+Enthusiast+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Creating+Art+that+lives+on-chain+%F0%9F%8E%A8;Building+%7C+Learning+%7C+Creating;Content+Creator+%7C+Artist+%7C+Developer)](https://github.com/aayush125a)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=aayush125a&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/aayush125a)
-[![GitHub followers](https://img.shields.io/github/followers/aayush125a?style=for-the-badge&logo=github&logoColor=white&color=blueviolet&label=Followers)](https://github.com/aayush125a)
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:6e40c9,60:3a86ff,100:00d4ff&height=200&section=header&text=Aayush%20Adhikari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Junior%20Developer%20%7C%20Artist%20%7C%20Web3%20Enthusiast&descSize=18&descAlignY=58&descColor=a9c4e4&animation=fadeIn" />
 
 </div>
 
----
-
-## About Me
-
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-I'm **Aayush**, an undergraduate from Nepal learning how to code and bringing ideas to life.
-
-- Learning new things and implementing it everyday
-- Learning how to bring my ideas to life with the help of codes
-- Exploring Web3 and learning how it works
-- I believe everything can be achieved
-
-<br clear="right"/>
-
----
-
-## What I Do
-
-<details>
-<summary><b>Business</b></summary>
-<br>
-
-- Planning to launch a business in the future
-- Learning marketing strategies
-- Building network and connections
-- Studying various business models and strategies
-
-</details>
-
-<details>
-<summary><b>Explore Web3</b></summary>
-<br>
-
-- Exploring decentralized apps and blockchain tech
-- Learning Solidity and smart contracts
-- Passionate about the future of digital ownership
-- Building on Ethereum ecosystem
-
-</details>
-
-<details>
-<summary><b>Arts & NFT</b></summary>
-<br>
-
-- Digital artist creating on-chain art
-- Merging creativity with blockchain technology
-- Planning to launch my own NFT collection
-- Exploring generative and 1/1 art styles
-
-</details>
-
-<details>
-<summary><b>Content Writing</b></summary>
-<br>
-
-- Content creator and writer
-- Covering Web3, crypto and tech topics
-- Sharing knowledge with the community
-- Documenting my builder journey
-
-</details>
-
-<details>
-<summary><b>Development</b></summary>
-<br>
-
-- Learning Web Development (JS, HTML, CSS, React)
-- Exploring GitHub Actions and automation
-- Trying to build tools that solve real problems
-- Open source contributor
-
-</details>
-
----
-
-## Tech Arsenal
-
-**Currently Learning:**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-
-**Tools I Use:**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-
----
-
-## GitHub Stats
-
 <div align="center">
 
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayush125a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush125a&theme=tokyonight&hide_border=true&layout=compact)
+<!-- ANIMATED TYPING TAGLINE -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=🌏+I'm+from+Nepal+%26+flexible+to+any+field;💡+Turning+ideas+into+reality+with+code;🎨+Where+Art+meets+Web3;🚀+Building+the+decentralized+future)](https://git.io/typing-svg)
 
 </div>
 
----
+<br/>
 
-## Contribution Graph
-
+<!-- PROFILE BADGES ROW -->
 <div align="center">
 
-![Aayush's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aayush125a&theme=tokyo-night&hide_border=true&area=true&area_color=7aa2f7)
+![Profile Views](https://komarev.com/ghpvc/?username=aayush125a&label=Profile+Views&color=6e40c9&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/aayush125a?label=Followers&style=for-the-badge&color=3a86ff&labelColor=0d1117)
+![GitHub User's stars](https://img.shields.io/github/stars/aayush125a?label=Total+Stars&style=for-the-badge&color=00d4ff&labelColor=0d1117)
 
 </div>
 
+<br/>
+
 ---
 
-## Featured Repository
+## 👤 About Me
+
+```typescript
+const aayush = {
+  name:       "Aayush Adhikari",
+  location:   "🇳🇵 Nepal",
+  role:       "Junior Developer | Artist | Web3 Enthusiast",
+  status:     "Undergraduate — bringing ideas to life with code",
+
+  philosophy: "I believe everything can be achieved",
+
+  currentlyDoing: [
+    "📚 Learning new things and implementing everyday",
+    "💻 Turning ideas into reality through code",
+    "🌐 Exploring Web3 and how it works",
+    "🎯 Growing as a developer, one commit at a time",
+  ],
+};
+```
+
+<br/>
+
+---
+
+## 🛠️ What I'm Good At
 
 <div align="center">
 
-[![Daily World Report](https://github-readme-stats.vercel.app/api/pin/?username=aayush125a&repo=daily-world-report&theme=tokyonight&hide_border=true)](https://github.com/aayush125a/daily-world-report)
+| 🌐 Web Development | 🎨 Arts & NFT | ✍️ Content Writing |
+|:-:|:-:|:-:|
+| Building modern web experiences | Creating digital art & NFTs | Writing compelling crypto content |
+
+| 🤝 Affiliate / Ambassador | 📣 Paid Promotion |
+|:-:|:-:|
+| Representing brands I believe in | Strategic crypto promotions |
 
 </div>
 
+<br/>
+
 ---
 
-## Connect With Me
+## ⚡ Tech Arsenal
+
+### 🔭 Currently Learning
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhikariaayush125@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/aayush125a)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jagarnath125)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-adhikari-8b3448373)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100024005200369)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
+### 🔧 Tools I Use
+
+<div align="center">
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayush125a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=3a86ff&text_color=a9c4e4"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush125a&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=a9c4e4"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush125a&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=3a86ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=a9c4e4&dates=a9c4e4"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+<img width="80%" src="https://github-profile-trophy.vercel.app/?username=aayush125a&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aayush125a&bg_color=0d1117&color=6e40c9&line=3a86ff&point=00d4ff&area=true&area_color=6e40c920&hide_border=true&custom_title=Aayush's%20Contribution%20Graph&title_color=a9c4e4"/>
+
+</div>
+
+<br/>
+
+---
+
+## 📌 Pinned Projects
+
+<div align="center">
+
+[![dune-guide](https://github-readme-stats.vercel.app/api/pin/?username=aayush125a&repo=dune-guide&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=3a86ff&text_color=a9c4e4)](https://github.com/aayush125a/dune-guide)
+[![daily-world-report](https://github-readme-stats.vercel.app/api/pin/?username=aayush125a&repo=daily-world-report&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=3a86ff&text_color=a9c4e4)](https://github.com/aayush125a/daily-world-report)
+
+</div>
+
+<br/>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-adhikariaayush125%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhikariaayush125@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-aayush125a-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayush125a)
+
+</div>
+
+<br/>
+
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:3a86ff,100:6e40c9&height=120&section=footer&animation=fadeIn"/>
+
+<sub>⚡ <i>"I believe everything can be achieved"</i> — Aayush Adhikari, Nepal 🇳🇵</sub>
+
 </div>
